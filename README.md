@@ -4,17 +4,6 @@ This project analyzes historical UFC fighter rankings to uncover trends, longevi
 
 ---
 
-## Table of Contents 📖
-
-1. [Project Overview](##project-overview)
-2. [Modules Used](##modules-used)
-3. [Data Description](##data-description)
-4. [Analysis](##analysis--visualizations)
-5. [Visualizations Placeholders](##visualizations-placeholders)
-6. [How to Run](##how-to-run)
-
----
-
 ## Project Overview 🎯
 
 The goal of this project is to:
@@ -122,14 +111,3 @@ Sample data:
 3. Place the CSV file (`UFC_rankings_history.csv`) in the working directory.
 4. Open the Jupyter Notebook and run all cells to generate visualizations.
 
----
-
-## License 📜
-
-This project is open-source under the MIT License.
-
----
-
-If you want, I can **also make a version with even more playful emojis and visual hierarchy for each section** to make it very GitHub-friendly and visually appealing.
-
-Do you want me to do that?
