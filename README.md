@@ -6,13 +6,12 @@ This project analyzes historical UFC fighter rankings to uncover trends, longevi
 
 ## Table of Contents 📖
 
-1. [Project Overview](#project-overview)
-2. [Modules Used](#modules-used)
-3. [Data Description](#data-description)
-4. [Analysis](#analysis--visualizations)
-5. [Visualizations Placeholders](#visualizations-placeholders)
-6. [How to Run](#how-to-run)
-7. [License](#license)
+1. [Project Overview](##project-overview)
+2. [Modules Used](##modules-used)
+3. [Data Description](##data-description)
+4. [Analysis](##analysis--visualizations)
+5. [Visualizations Placeholders](##visualizations-placeholders)
+6. [How to Run](##how-to-run)
 
 ---
 
